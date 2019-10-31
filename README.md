@@ -21,7 +21,7 @@ Use com responsabilidade
 </p>
 <b>EXECUÇÃO</b>
 <p>
-Para executa-lo, é necessário baixar e instalar ter o harvester(link) e  editar  a primeira  linha do script indicando a pasta onde o script do harvester está instalado.
+Para executa-lo, é necessário baixar e instalar ter o harvester(<a href="https://github.com/laramies/theHarvester">link</a>) e  editar  a primeira  linha do script indicando a pasta onde o script do harvester está instalado.
 
 Ex.: $global:theharvester="C:\theHarvester\theHarvester.py"
 </p>
