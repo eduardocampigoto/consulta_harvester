@@ -27,7 +27,7 @@ Function GetFile($ext, $msg)
     [System.Reflection.Assembly]::LoadWithPartialName("System.windows.forms")|Out-Null
     $selecionaArquivo = New-Object System.Windows.Forms.OpenFileDialog
     $selecionaArquivo.initialDirectory = "MyComputer"
-    $selecionaArquivo.filter = " Arquivos de texto | *$ext | Todos os arquivos | *.*"
+    $selecionaArquivo.filter = " Todos os arquivos | *.*"
     Write-Host $msg -ForegroundColor yellow
     if($selecionaArquivo.ShowDialog() -eq "OK")
     {
