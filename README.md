@@ -1,5 +1,5 @@
 # consulta_harvester
-Script powershell para auxiliar na consulta e informações em massa utilizando o the_harvester
+Script powershell para auxiliar na consulta de informações de contatos em massa utilizando o the_harvester
 
 <b>DESCRIÇÃO</b>
 
