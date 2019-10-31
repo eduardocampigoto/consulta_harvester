@@ -3,7 +3,7 @@ Script powershell para auxiliar na consulta de informações de contatos em mass
 
 <b>DESCRIÇÃO</b>
 
-<p>Este script foi criado com intuito de poupar tempo na execução da prospecção de clientes utilizando o script the_harvester como background das consultas e automatizando a execução de várias consultas ao mesmo tempo.
+<p>Este script foi criado com intuito de poupar tempo na execução da prospecção de clientes utilizando o script the_harvester como background das consultas, automatizando a execução de várias consultas ao mesmo tempo.
 
 Com ele é possível buscar listas de nomes e cargos de contatos, emails e outras informações baseadas na busca executada pelo the_harvester no facebook, linkedin, twitter, dentre outros.
 </p>
