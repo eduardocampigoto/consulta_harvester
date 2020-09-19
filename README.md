@@ -21,7 +21,7 @@ Use com responsabilidade
 </p>
 <b>EXECUÇÃO</b>
 <p>
-Para executa-lo, é necessário baixar e instalar ter o harvester(<a href="https://github.com/laramies/theHarvester">link</a>) e  editar  a primeira  linha do script indicando a pasta onde o script do harvester está instalado.
+Para executa-lo, é necessário baixar e instalar  o Theharvester(<a href="https://github.com/laramies/theHarvester">link</a>) e  editar  a primeira  linha do script powershell, indicando a pasta onde o TheHarvester.py está instalado.
 
 Ex.: $global:theharvester="C:\theHarvester\theHarvester.py"
 </p>
